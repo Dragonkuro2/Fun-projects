@@ -9,19 +9,6 @@ This project is a web-based implementation of the classic Rock-Paper-Scissors ga
 - Responsive desi- Randomized computer choices
 - Score tracking
 
-## Installation
-To run this project locally,
-llo1. Clone the repository:
-1. Clone the repository:
-  ```sh
-  git clone https://github.com/yourusername/rock-paper-scissors.git
-  ```
-2. Navigate to the project directory:
-  ```sh
-  cd rock-paper-scissors
-  ```
-3. Open `game.html` in your web browser.
-
 ## Usage
 - Open the `game.html` file in a web browser.
 - Choose Rock, Paper, or Scissors by clicking the corresponding button.
