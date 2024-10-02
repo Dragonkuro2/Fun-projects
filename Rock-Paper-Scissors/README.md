@@ -14,11 +14,11 @@ To run this project locally,
 llo1. Clone the repository:
 1. Clone the repository:
   ```sh
-  git clone https://github.com/yourusername/rock-paper-scissors.git
+  git clone https://github.com/Dragonkuro2/Fun-projects/blob/main/Rock-Paper-Scissors.git
   ```
 2. Navigate to the project directory:
   ```sh
-  cd rock-paper-scissors
+  cd Rock-Paper-Scissors
   ```
 3. Open `game.html` in your web browser.
 
