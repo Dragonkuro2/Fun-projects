@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game</title>
+  <link rel="stylesheet" href="styles/generale.css">
+  <link rel="stylesheet" href="styles/game.css">
+</head>
+<body>
+  <div class="container">
+    <p class="title">Rock Paper Scissors</p>
+    <div>
+          <!-- JS scripts of the game -->
+      <script src="scripts/script.js"></script>
+
+      <button class="paper-button js-paper-button" onclick="
+        resultGenerator('paper');
+      "><img src="Icons/paper-emoji.png" class="icon"></button>
+      <button class="rock-button js-rock-button" onclick="
+        resultGenerator('rock');
+      "
+      ><img src="Icons/rock-emoji.png" class="icon"></button>
+      <button class="scissors-button js-scissors-button" onclick="
+        resultGenerator('scissors');
+      "><img src="Icons/scissors-emoji.png" class="icon"></button>
+    </div>
+    <p class="result js-result"></p>
+    <p class="result-icons js-result-icons"></p>
+    <p class="status js-status"></p>
+    <button class="reset-button js-reset-button" onclick="
+      storageCleaner();
+    ">Reset Score</button>
+  </div>
+</body>
+</html>
