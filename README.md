@@ -12,7 +12,7 @@ The idea behind this repo is to have fun while learning! If you’re interested 
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: [Hicham.bourezi@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/hicham-bourezi/]
+- Email: Hicham.bourezi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hicham-bourezi/
 
 Thanks for checking out **Fun Projects**! 🎨🔧
