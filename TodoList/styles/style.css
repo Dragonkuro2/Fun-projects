@@ -1,0 +1,46 @@
+body {
+  font-family: arial;
+}
+
+.header, .js-data {
+  display: grid;
+  grid-template-columns: 200px 200px 80px;
+  column-gap: 10px;
+  row-gap: 10px;
+  height: 40px;
+  align-items: center;
+}
+
+.header {
+  margin-bottom: 10px;
+  align-items: stretch;
+}
+
+.add-button {
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.add-button:hover {
+  background-color: darkgreen;
+}
+
+.input-task, .date-task, .add-button {
+  font-size: 15px;
+}
+
+.js-delete-button {
+  background-color: rgb(218, 0, 0);
+  color: white;
+  border: none;
+  height: 40px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.js-delete-button:hover {
+  background-color: rgb(174, 0, 0);
+}
